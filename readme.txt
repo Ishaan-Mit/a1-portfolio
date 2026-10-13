@@ -11,13 +11,13 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 */10
-- */1 Readme
-- */2 Basic HTML content
-- */1 Basic CSS styling
-- */1 Advanced feature
-- */2 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 1/1 Readme
+- 2/2 Basic HTML content
+- 1/1 Basic CSS styling
+- 1/1 Advanced feature
+- 1/2 Responsive layout
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
@@ -38,6 +38,7 @@ A contact form which leverages HTML forms
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
 There were errors presented from my widget embeds from itch.io but they were directly coped from itch.io so i'm choosing to not mess with them since they were formatted in a specific wat
+I ignored the warning that input text has no label, because the validitiy checker said that that type of field couldn't have a label.
 
 4. How long, in hours, did it take you to complete this assignment?
 combining all my actual focused time around 4 hours
