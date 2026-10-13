@@ -3,6 +3,7 @@ body {
     color: #413b57;
     font-size: 18px;
     line-height: 1.25;
+    margin-left: 2%;
 }
 
 nav ul {
@@ -11,6 +12,7 @@ nav ul {
     margin: 0;
     display: flex;
     gap: 10px;
+    margin-left: 2%;
 }
 
 .oswald-font {
@@ -23,6 +25,6 @@ nav ul {
 .profile-image {
     width: 150px;
     height: 150px;
-    border-radius: 10%;
+    border-radius: 14%;
     margin-bottom: 20px;
 }
